@@ -1,0 +1,24 @@
+@media screen and (max-width: 760px){
+    .genius{
+        width: 350px;
+        height: 350px;
+    }
+}
+@media screen and (max-width: 390px){
+    .genius{
+        width: 330px;
+        height: 330px;
+    }
+}
+@media screen and (max-width: 375px){
+    .genius{
+        width: 300px;
+        height: 300px;
+    } 
+}
+@media screen and (max-width: 360px){
+    .genius{
+        width: 300px;
+        height: 300px;
+    }   
+}
